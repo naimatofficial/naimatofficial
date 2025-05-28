@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/iamnaimatullah1" target="blank"><img src="https://img.shields.io/twitter/follow/iamnaimatullah1?logo=twitter&style=for-the-badge" alt="iamnaimatullah1" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce Store**
+- 🔭 I’m currently working on **CRM System**
 
-- 👯 I’m looking to collaborate on **Light House Digital**
+- 👯 I’m looking to collaborate on **Light House Digital, Weeam Elnagar (Duabi)**
 
-- 🤝 I’m looking for help with **Task Management APP**
+- 🤝 I’m looking for help with **Task Management APP + Backend APIs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/naimatofficial](https://github.com/naimatofficial)
 
