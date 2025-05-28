@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **CRM System**
 
-- 👯 I’m looking to collaborate on **Light House Digital, Weeam Elnagar (Duabi)**
+- 👯 I’m looking to collaborate on **Light House Digital, Weeam Elnagar (Dubai)**
 
 - 🤝 I’m looking for help with **Task Management APP + Backend APIs**
 
